@@ -1,0 +1,9 @@
+# For Raspberry Pi OS Trixie, 64-bit, using the system Python in a venv.
+# Keep NumPy's major version compatible with the OS-installed camera extensions.
+numpy>=2,<2.3
+opencv-python==4.11.0.86
+pillow>=10
+torch>=2.6
+torchvision>=0.21
+ultralytics==8.4.186
+# Picamera2/libcamera come from apt, NOT pip.

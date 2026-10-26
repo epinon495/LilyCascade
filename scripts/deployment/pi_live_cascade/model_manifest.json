@@ -1,0 +1,15 @@
+{
+  "lily_source": "/Users/evpinon/SeniorDesign/LilyCascade/runs/lily_n416_baseline/weights/best.pt",
+  "heatmap_source": "/Users/evpinon/SeniorDesign/LilyCascade/runs/anther_unet256_augmented_additionalepochs/best.pt",
+  "heatmap_epoch": 108,
+  "defaults": {
+    "lily_image_size": 416,
+    "lily_confidence": 0.6,
+    "peak_threshold": 0.8,
+    "crop_margin": 0.1
+  },
+  "files": {
+    "anther.pt": "91c72701c8b7f8e0bb8d77ceb3cf82769ba6c61aaedf97f79328179ce8ebfdc7",
+    "lily.pt": "07c6996cbc5cf3ae6119834eb8b9337ad25ce451071b180dea5e7586c7f91db9"
+  }
+}

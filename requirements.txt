@@ -1,0 +1,6 @@
+torch==2.14.1
+torchvision==0.29.1
+ultralytics==8.4.186
+PyYAML==6.0.3
+matplotlib
+numpy

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>4600216</id>
+      <size>20</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-10-18 12:12:26.042484+00:00</created>
+      <updated>2026-10-18 12:34:46.569986+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>19</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4597235</id>
+          <start>0</start>
+          <stop>19</stop>
+          <url>https://app.cvat.ai/api/jobs/4600216/dataset/export/api/jobs/4600216</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>epinon495@gmail.com</username>
+        <email>epinon495@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>anther_tip</name>
+          <color>#efadca</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-10-18 12:36:05.735801+00:00</dumped>
+  </meta>
+  <image id="0" name="session01__IMG_5573.jpg" width="3024" height="4032">
+    <points label="anther_tip" source="manual" occluded="0" points="1777.85,1586.60" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1520.74,1627.30" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1297.32,1794.15" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2208.95,1991.60" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1754.45,2327.33" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="session01__IMG_5577.jpg" width="3024" height="4032">
+    <points label="anther_tip" source="manual" occluded="0" points="1705.57,1507.04" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1525.86,1523.16" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1388.09,1620.33" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1741.77,1838.10" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1727.37,1850.10" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2002.40,1719.39" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="session01__IMG_5585.jpg" width="3024" height="4032">
+    <points label="anther_tip" source="manual" occluded="0" points="1944.63,3002.05" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1618.79,2878.97" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1414.63,2893.68" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1264.66,2942.56" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="session01__IMG_5595.jpg" width="3024" height="4032">
+    <points label="anther_tip" source="manual" occluded="0" points="1822.28,1418.01" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1418.74,1328.11" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1261.24,1432.41" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1165.34,1602.08" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1662.91,1694.18" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1666.78,1715.35" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="session01__IMG_5610.jpg" width="3024" height="4032">
+    <points label="anther_tip" source="manual" occluded="0" points="1301.50,1534.34" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1401.26,1538.88" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2011.88,1540.48" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1905.46,1437.74" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="session01__IMG_5613.jpg" width="3024" height="4032">
+    <points label="anther_tip" source="manual" occluded="0" points="1410.51,1208.29" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1387.41,1224.89" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1219.25,1243.36" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1026.26,1406.13" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1036.94,1453.42" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="session02__IMG_8033.jpg" width="4032" height="3024">
+    <points label="anther_tip" source="manual" occluded="0" points="2358.69,1769.79" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2335.98,1624.54" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1921.32,1157.23" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1459.15,1451.23" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1527.02,1612.20" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1768.98,1951.26" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="session02__IMG_8035.jpg" width="5712" height="4284">
+    <points label="anther_tip" source="manual" occluded="0" points="1420.75,2703.98" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1830.39,2964.07" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1876.33,3074.08" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1431.24,3340.69" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1177.48,3127.11" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1089.80,3013.72" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="4380.87,2415.76" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="4282.72,2423.07" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="4180.38,2433.10" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="4070.28,2400.30" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="4006.78,2454.30" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="3956.93,2525.91" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="session02__IMG_8062.jpg" width="5712" height="4284">
+    <points label="anther_tip" source="manual" occluded="0" points="2691.52,1062.97" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2596.11,1037.65" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2628.87,1476.58" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2495.76,1663.36" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2376.42,1621.54" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="session02__IMG_8067.jpg" width="4032" height="3024">
+    <points label="anther_tip" source="manual" occluded="0" points="1734.03,1232.29" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1744.81,1350.40" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1574.49,1440.43" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1509.38,949.86" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1322.76,1024.25" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1241.83,1083.54" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="session02__IMG_8112.jpg" width="4032" height="3024">
+    <points label="anther_tip" source="manual" occluded="0" points="1813.78,1538.74" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="session02__IMG_8117.jpg" width="5712" height="4284">
+    <points label="anther_tip" source="manual" occluded="0" points="3614.24,2160.60" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="3567.47,2269.14" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="3287.79,1854.84" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="3347.58,1439.57" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="3279.79,1461.30" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="session02__IMG_8179.jpg" width="5712" height="4284">
+    <points label="anther_tip" source="manual" occluded="0" points="2585.34,1525.39" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2833.73,1720.22" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2317.20,1771.74" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="session02__IMG_8182.jpg" width="4032" height="3024">
+    <points label="anther_tip" source="manual" occluded="0" points="2564.62,840.90" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2003.87,609.39" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1660.20,924.12" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2422.56,1322.20" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2309.64,1377.80" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="session02__IMG_8222.jpg" width="4284" height="5712">
+    <points label="anther_tip" source="manual" occluded="0" points="2592.86,2465.82" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2702.35,2600.70" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2306.95,3127.38" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1893.56,2974.13" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1718.74,2874.06" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1955.60,2318.42" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="session02__IMG_8227.jpg" width="5712" height="4284">
+    <points label="anther_tip" source="manual" occluded="0" points="3492.60,1496.74" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="3426.75,1442.79" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="3158.17,1312.12" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="3136.87,1554.58" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="3234.10,1593.14" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="3425.52,1710.88" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="session02__IMG_8302.jpg" width="5712" height="4284">
+  </image>
+  <image id="17" name="session02__IMG_8316.jpg" width="5712" height="4284">
+    <points label="anther_tip" source="manual" occluded="0" points="2967.24,1381.01" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2976.21,1584.01" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="3076.03,1769.07" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="3456.24,1771.31" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="session02__IMG_8324.jpg" width="4032" height="3024">
+    <points label="anther_tip" source="manual" occluded="0" points="2111.46,812.25" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1881.41,970.54" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1673.67,954.89" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="session02__IMG_8329.jpg" width="4032" height="3024">
+    <points label="anther_tip" source="manual" occluded="0" points="2525.71,1503.46" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2495.80,1652.60" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="2348.36,1887.24" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1874.08,1738.14" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1741.59,1566.48" z_order="0">
+    </points>
+    <points label="anther_tip" source="manual" occluded="0" points="1859.73,1308.63" z_order="0">
+    </points>
+  </image>
+</annotations>
